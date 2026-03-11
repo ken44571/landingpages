@@ -1,2 +1,1 @@
-# portfolioo
-2026newmodel
+2026
